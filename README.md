@@ -14,7 +14,7 @@ This is a portfolio website showcasing my projects, skills, and experiences. The
 
 ## Demo
 
-You can see a live demo of the website [here](https://your-portfolio-url.com).
+You can see a live demo of the website [here](https://arjavenkatavamsi-portfolio.netlify.app/).
 
 ## Features
 
